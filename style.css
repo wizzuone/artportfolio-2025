@@ -1,0 +1,17 @@
+body {
+    background: black
+  }
+  
+  #portfolio div {
+    flex: 1;
+    }
+  
+  img {
+    width:100%;
+    height:auto;
+    padding: 1px;
+  }
+  
+  .row {
+    display: flex;
+    }
